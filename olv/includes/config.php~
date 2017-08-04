@@ -1,0 +1,15 @@
+<?php
+    ini_set("display_errors", false);
+    error_reporting(0);
+
+    require("constants.php");
+    require("functions.php");
+
+    session_start();
+	
+    if ($_SESSION["user"] == false)
+    {
+        redirect("login.php");
+    }
+
+?>

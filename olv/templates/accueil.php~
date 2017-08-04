@@ -1,0 +1,39 @@
+<div class="row">
+  <div class="">
+	  	<div class="col-lg-4">
+		  <section class="panel">
+			  <a href="index.php?s=mkf" class="panel-body btn btn-primary btn-block"><?=strlen($_SERVER['QUERY_STRING'])?>MKF</a>
+		  </section>
+	  </div>
+	  <div class="col-lg-4">
+		  <section class="panel">
+			  <a href="index.php?s=kabba" class="panel-body btn btn-primary btn-block">KABBA</a>
+		  </section>
+	  </div>
+	  <div class="col-lg-4">
+		  <section class="panel">
+			  <a href="index.php?s=drames" class="panel-body btn btn-primary btn-block">DRAMES</a>
+		  </section>
+	  </div>
+	  <div class="col-lg-4">
+		  <section class="panel">
+			  <a href="index.php?s=sk5" class="panel-body btn btn-primary btn-block">SK5</a>
+		  </section>
+	  </div>
+	  <div class="col-lg-4">
+		  <section class="panel">
+			  <a href="index.php?s=atc" class="panel-body btn btn-primary btn-block">ATC</a>
+		  </section>
+	  </div>
+	  <div class="col-lg-4">
+		  <section class="panel">
+			  <a href="index.php?s=pm" class="panel-body btn btn-primary btn-block">PM</a>
+		  </section>
+	  </div>
+	  <div class="col-lg-4">
+		  <section class="panel">
+			  <a href="index.php?s=autre" class="panel-body btn btn-success btn-block">AUTRE</a>
+		  </section>
+	  </div>		
+  </div>  
+

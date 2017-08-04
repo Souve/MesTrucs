@@ -1,0 +1,14 @@
+<?php
+
+    define("DATABASE", "olivier");
+
+    // your database's password
+    define("PASSWORD", "");
+
+    // your database's server
+    define("SERVER", "localhost");
+
+    // your database's username
+    define("USERNAME", "root");
+
+?>
